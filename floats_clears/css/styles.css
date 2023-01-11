@@ -15,4 +15,17 @@ body{
 
 .left{
   float: left;
+  margin-right: 1rem;
+}
+
+.right{
+  float:right;
+  margin-left: 1rem;
+}
+
+p{
+  /* wont work for items which are against floated comment and check  */
+
+  /* padding-left: 1rem;  */
+  /* margin-left: 1rem; */
 }
