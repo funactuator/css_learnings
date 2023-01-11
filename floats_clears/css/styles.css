@@ -33,3 +33,9 @@ p{
 .clear{
   clear: both;
 }
+
+section{
+  background-color: bisque;
+  padding: 1rem;
+  border: 1px solid #333;
+}
